@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about **web development**, **progra
 - 💬 Ask me about **React**, **Next.js**, **JavaScript**, or anything tech-related.
 - 🤝 I’m looking to collaborate on projects that involve **web development**, **open-source contributions**, and **technical writing**.
 - 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/kasyfi/) | [Email](mailto:kasyfi@example.com)
+  [LinkedIn](https://www.linkedin.com/in/kasyfizamzam/) | [Email](mailto:kasyfi@gmail.com)
 
 ## 🎨 Technologies & Tools 🎨
 
@@ -81,7 +81,7 @@ A task management application that helps users create, update, and track their t
 
 ## 🌈 GitHub Stats
 
-![Kasyfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasyfi&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Kasyfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasyfi&show_icons=true&count_private=true&hide_title=true&theme=light)
 
 ---
 
@@ -101,9 +101,9 @@ I'm always open to collaborating on projects, especially those that involve **we
 ## 💌 Connect with Me 💌
 
 Feel free to connect with me on these platforms:
-- [LinkedIn](https://www.linkedin.com/in/kasyfi/)
-- [Twitter](https://twitter.com/kasyfi_dev)
-- [Email](mailto:kasyfi@example.com)
+- [LinkedIn](https://www.linkedin.com/in/kasyfizamzam/)
+- [Twitter](https://twitter.com/kasyfizamzam)
+- [Email](mailto:kasyfi@gmail.com)
 
 ---
 
