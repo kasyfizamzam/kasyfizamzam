@@ -81,7 +81,7 @@ A task management application that helps users create, update, and track their t
 
 ## GitHub Stats
 
-![Kasyfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasyfi&show_icons=true&theme=radical)
+![Kasyfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasyfi&show_icons=true&count_private=true&hide_title=true&theme=light)
 
 ---
 
