@@ -10,7 +10,7 @@ Welcome to my profile! I’m passionate about **web development**, **programming
 - **Focus**: Full Stack Development
 - **Tech Stack**:
   - **Front-End**: React, Next.js, TypeScript
-  - **Back-End**: Node.js, Express.js, MongoDB, MySQL
+  - **Back-End**: Node.js, Express.js, Laravel, MongoDB, MySQL, PostgeSQL
   - **DevOps**: Docker, GitHub Actions, Vercel
 
 ---
